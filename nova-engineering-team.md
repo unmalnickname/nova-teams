@@ -24,7 +24,7 @@ outcomes:
   - Convert a product request into an owned, sequenced implementation plan
   - Review backend, interface, security, and compatibility boundaries
   - Finish with an evidence-based release and rollback decision
-  - Respect the M1 Air limits: no Docker, no heavy downloads without asking
+  - Respect the M1 Air limits, no Docker, no heavy downloads without asking
 setupMinutes: 3
 requirements:
   apps:
