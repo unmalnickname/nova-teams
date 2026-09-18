@@ -2,7 +2,7 @@
 botmrr: 1
 id: nova-engineering
 release: 1.0.0
-name: Ship Software Safely (Nova)
+name: Nova Corp Engineering
 tagline: Nova product engineering crew tuned to a local M1 Air — no Docker, small downloads, real tooling.
 summary: |
   A four-agent product engineering crew that inspects the existing system, separates ownership, protects backend and interface boundaries, and verifies the result. Tuned for Nova Labs hardware limits: no Docker containers, no large downloads without asking, and the local toolchain is always preferred.
@@ -192,7 +192,7 @@ examples:
       Ada inspects the repo with codedb, runs gitnexus to check impact, confirms no new installs are needed, and delegates the backend boundary to Lin, the installation experience to Pixel, and the verification matrix to Rigel. The room returns one consolidated plan using only existing local tooling (Node/uv/test runner already on the M1 Air), with explicit file ownership, compatibility constraints, focused checks, rollback, and a release decision.
 ---
 
-# Ship Software Safely (Nova)
+# Nova Corp Engineering
 
 Turn a product change into a scoped plan, reviewed implementation, and release decision — on a local M1 Air, no Docker, no surprise downloads.
 
